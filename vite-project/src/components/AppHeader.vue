@@ -6,13 +6,15 @@
         }
     }
 </script>
+
+<template>
 <header>
+    <input type="text">
+    <button @click="$emit('searchButton')">click</button>
+    
 
     
 </header>
-
-<template>
-
 </template>
 
 <style>
