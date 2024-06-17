@@ -6,11 +6,15 @@
         }
     }
 </script>
+<header>
+
+    
+</header>
 
 <template>
 
 </template>
 
-<style scoped>
+<style>
 
 </style>
