@@ -38,6 +38,6 @@ import axios from 'axios';
 
 </template>
 
-<style scoped>
+<style>
 
 </style>
